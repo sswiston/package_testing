@@ -1,0 +1,9 @@
+
+ -------------------------------------------------------------
+  MESS [v.0.1.2]
+  Massive Eco-Evolutionary Synthesis Simulations
+ -------------------------------------------------------------
+  Begin run: 2023-08-17 11:47
+  Using args {'new': None, 'params': 'params-simdata.txt', 'sims': 10, 'cores': 2, 'results': False, 'empirical': None, 'force': False, 'quiet': False, 'very_quiet': False, 'debug': False, 'log_files': False, 'ipcluster': None, 'fancy_plots': False}
+  Platform info: posix.uname_result(sysname='Darwin', nodename='seans-mbp.nycap.rr.com.dhcp.wustl.edu', release='20.6.0', version='Darwin Kernel Version 20.6.0: Wed Jun 23 00:26:27 PDT 2021; root:xnu-7195.141.2~5/RELEASE_ARM64_T8101', machine='arm64')
+2023-08-17 11:47:53,676 	pid=39647 	[Region.py]	ERROR 	Any failed simulations will report here: {}
